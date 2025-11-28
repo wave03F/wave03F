@@ -32,11 +32,11 @@
 <tr>
 <td width="60%" align="center">
 
-<a href="https://github.com/[USERNAME_ของคุณ]">
+<a href="https://github.com/[WAVE03F]">
 <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_ของคุณ]&show_icons=true&bg_color=000000&title_color=D00000&text_color=FFD700&icon_color=D00000&border_color=D00000&count_private=true&hide_border=false" alt="GTX's GitHub stats" />
 </a>
 <br/>
-<a href="https://github.com/[USERNAME_ของคุณ]">
+<a href="https://github.com/[WAVE03F]">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_ของคุณ]&layout=compact&bg_color=000000&title_color=D00000&text_color=FFD700&border_color=D00000&hide_border=false" alt="Top Languages" />
 </a>
 
