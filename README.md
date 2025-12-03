@@ -42,11 +42,11 @@
 <td width="60%" align="center">
 
 <a href="https://github.com/wave03F">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave03F&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=SCUDERIA%20GTX%20PERFORMANCE&bg_color=30,000000,D00000&title_color=D00000&text_color=FFD700&icon_color=FFD700&border_color=D00000&hide_border=false&cache_seconds=7200" alt="GTX Performance Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave03F&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=SCUDERIA%20GTX%20PERFORMANCE&bg_color=30,000000,D00000&title_color=D00000&text_color=FFD700&icon_color=FFD700&border_color=D00000&hide_border=false&cache_seconds=7200&v=2" alt="GTX Performance Stats" />
 </a>
 <br/>
 <a href="https://github.com/wave03F">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wave03F&layout=compact&langs_count=8&card_width=320&custom_title=SCUDERIA%20GTX%20TOP%20LANGS&bg_color=30,000000,D00000&title_color=D00000&text_color=FFD700&border_color=D00000&hide_border=false&cache_seconds=7200" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wave03F&layout=compact&langs_count=8&card_width=320&custom_title=SCUDERIA%20GTX%20TOP%20LANGS&bg_color=30,000000,D00000&title_color=D00000&text_color=FFD700&border_color=D00000&hide_border=false&cache_seconds=7200&v=2" alt="Top Languages" />
 </a>
 
 </td>
@@ -70,7 +70,7 @@
 <td width="50%" align="center">
 
 <a href="https://github.com/wave03F">
-<img src="https://streak-stats.demolab.com?user=wave03F&background=000000&fire=D00000&ring=FFD700&currStreakNum=FFD700&currStreakLabel=D00000&sideNums=FFD700&sideLabels=D00000&dates=CCCCCC&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=wave03F&background=000000&fire=D00000&ring=FFD700&currStreakNum=FFD700&currStreakLabel=D00000&sideNums=FFD700&sideLabels=D00000&dates=CCCCCC&hide_border=false&v=2" alt="GitHub Streak" />
 </a>
 
 </td>
