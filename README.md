@@ -10,6 +10,15 @@
 
 <br/><br/>
 
+<p align="center">
+<a href="https://github.com/wave03F">
+<img src="https://komarev.com/ghpvc/?username=wave03F&label=GARAGE%20VISITS&color=D00000&style=flat" alt="Profile views" />
+</a>
+<a href="https://github.com/wave03F?tab=followers">
+<img src="https://img.shields.io/github/followers/wave03F?style=flat&logo=github&label=FOLLOWERS&color=D00000" alt="GitHub Followers" />
+</a>
+</p>
+
 ## ⚙️ THE V12 ENGINE ROOM (Tech Stack)
 
 <p align="center">
@@ -32,12 +41,12 @@
 <tr>
 <td width="60%" align="center">
 
-<a href="https://github.com//wave03F">
-<img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_ของคุณ]&show_icons=true&bg_color=000000&title_color=D00000&text_color=FFD700&icon_color=D00000&border_color=D00000&count_private=true&hide_border=false" alt="GTX's GitHub stats" />
+<a href="https://github.com/wave03F">
+<img src="https://github-readme-stats.vercel.app/api?username=wave03F&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=SCUDERIA%20GTX%20PERFORMANCE&bg_color=30,000000,D00000&title_color=D00000&text_color=FFD700&icon_color=FFD700&border_color=D00000&hide_border=false" alt="GTX Performance Stats" />
 </a>
 <br/>
-<a href="https://github.com//wave03F">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_ของคุณ]&layout=compact&bg_color=000000&title_color=D00000&text_color=FFD700&border_color=D00000&hide_border=false" alt="Top Languages" />
+<a href="https://github.com/wave03F">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wave03F&layout=compact&langs_count=8&card_width=320&custom_title=SCUDERIA%20GTX%20TOP%20LANGS&bg_color=30,000000,D00000&title_color=D00000&text_color=FFD700&border_color=D00000&hide_border=false" alt="Top Languages" />
 </a>
 
 </td>
@@ -50,6 +59,31 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 🏆 TROPHY CASE & STREAK
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/wave03F">
+<img src="https://streak-stats.demolab.com?user=wave03F&background=000000&fire=D00000&ring=FFD700&currStreakNum=FFD700&currStreakLabel=D00000&sideNums=FFD700&sideLabels=D00000&dates=CCCCCC&hide_border=false" alt="GitHub Streak" />
+</a>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/wave03F">
+<img src="https://github-profile-trophy.vercel.app/?username=wave03F&theme=monokai&no-frame=false&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</a>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
