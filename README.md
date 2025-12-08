@@ -6,6 +6,21 @@
 
 ---
 
+<p><b>🏁 SCUDERIA GTX — BORN TO WIN 🏁</b></p>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="14" role="img" aria-label="checkered-divider">
+  <defs>
+    <pattern id="checker" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="10" height="10" fill="#000000"/>
+      <rect x="10" y="10" width="10" height="10" fill="#000000"/>
+      <rect x="10" y="0" width="10" height="10" fill="#FFFFFF"/>
+      <rect x="0" y="10" width="10" height="10" fill="#FFFFFF"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="14" fill="url(#checker)"/>
+  <rect width="100%" height="14" fill="transparent" stroke="#D00000" stroke-width="1"/>
+</svg>
+
 <img src="https://i.pinimg.com/originals/40/51/2e/40512eb52f79343b4387f946473c6909.gif" width="600px" alt="Ferrari Driving GIF">
 
 <br/><br/>
@@ -17,6 +32,7 @@
 <a href="https://github.com/wave03F?tab=followers">
 <img src="https://img.shields.io/github/followers/wave03F?style=flat&logo=github&label=FOLLOWERS&color=D00000" alt="GitHub Followers" />
 </a>
+<img src="https://img.shields.io/badge/CAR%20NO.-03-D00000?style=flat&labelColor=000000&color=D00000" alt="Car Number 03" />
 </p>
 
 ## ⚙️ THE V12 ENGINE ROOM (Tech Stack)
@@ -54,6 +70,19 @@
 </p>
 
 <br/>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="14" role="img" aria-label="checkered-divider">
+  <defs>
+    <pattern id="checker2" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="10" height="10" fill="#000000"/>
+      <rect x="10" y="10" width="10" height="10" fill="#000000"/>
+      <rect x="10" y="0" width="10" height="10" fill="#FFFFFF"/>
+      <rect x="0" y="10" width="10" height="10" fill="#FFFFFF"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="14" fill="url(#checker2)"/>
+  <rect width="100%" height="14" fill="transparent" stroke="#D00000" stroke-width="1"/>
+</svg>
 
 ## 🏆 TROPHY CASE & STREAK
 
