@@ -17,12 +17,12 @@
     </td>
     
     <td width="45%" align="center" style="border: none;">
-      <a href="https://github.com/[USERNAME_ของคุณ]">
-        <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_ของคุณ]&show_icons=true&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&count_private=true&hide_border=false" />
+      <a href="https://github.com/wave03F">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave03F&show_icons=true&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&count_private=true&hide_border=false&cache_seconds=7200&v=f1" />
       </a>
       <br/>
-      <a href="https://github.com/[USERNAME_ของคุณ]">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_ของคุณ]&layout=compact&bg_color=151515&title_color=FF2800&text_color=ffffff&border_color=FF2800&hide_border=false" />
+      <a href="https://github.com/wave03F">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wave03F&layout=compact&bg_color=151515&title_color=FF2800&text_color=ffffff&border_color=FF2800&hide_border=false&cache_seconds=7200&v=f1" />
       </a>
     </td>
   </tr>
@@ -43,7 +43,7 @@
 <br/>
 
 ### 🏁 SEASON PERFORMANCE (TRACK RECORD)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_ของคุณ]&theme=dark&hide_border=true&background=000000&stroke=FF2800&ring=FF2800&fire=FFEA00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFEA00" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=wave03F&theme=dark&hide_border=true&background=000000&stroke=FF2800&ring=FF2800&fire=FFEA00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFEA00&v=f1" alt="Streak Stats" />
 
 <br/><br/>
 
