@@ -1,108 +1,52 @@
 <div align="center">
 
-![GTX Banner](https://capsule-render.vercel.app/api?type=transparent&fontColor=D00000&height=120&section=header&text=GTX&fontSize=90&fontAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=FF2800&height=220&section=header&text=SCUDERIA%20GTX&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50&desc=Formula%201%20Dev%20Team&descSize=25&descAlign=50)
 
-### 💨 *Welcome to the fast lane of development.* 💨
-
----
-
-<p><b>🏁 SCUDERIA GTX — BORN TO WIN 🏁</b></p>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="14" role="img" aria-label="checkered-divider">
-  <defs>
-    <pattern id="checker" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-      <rect x="0" y="0" width="10" height="10" fill="#000000"/>
-      <rect x="10" y="10" width="10" height="10" fill="#000000"/>
-      <rect x="10" y="0" width="10" height="10" fill="#FFFFFF"/>
-      <rect x="0" y="10" width="10" height="10" fill="#FFFFFF"/>
-    </pattern>
-  </defs>
-  <rect width="100%" height="14" fill="url(#checker)"/>
-  <rect width="100%" height="14" fill="transparent" stroke="#D00000" stroke-width="1"/>
-</svg>
-
-<img src="https://i.pinimg.com/originals/40/51/2e/40512eb52f79343b4387f946473c6909.gif" width="600px" alt="Ferrari Driving GIF">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=FFEA00&center=true&vCenter=true&width=500&lines=BOX+BOX+BOX...+Pushing+Code+to+Prod;DRS+ENABLED:+Deploying+Fast;Target+Lap+Time:+Optimization+Complete" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<p align="center">
-<a href="https://github.com/wave03F">
-<img src="https://komarev.com/ghpvc/?username=wave03F&label=GARAGE%20VISITS&color=D00000&style=flat" alt="Profile views" />
-</a>
-<a href="https://github.com/wave03F?tab=followers">
-<img src="https://img.shields.io/github/followers/wave03F?style=flat&logo=github&label=FOLLOWERS&color=D00000" alt="GitHub Followers" />
-</a>
-<img src="https://img.shields.io/badge/CAR%20NO.-03-D00000?style=flat&labelColor=000000&color=D00000" alt="Car Number 03" />
-</p>
+<table>
+  <tr>
+    <td width="55%" align="center" style="border: none;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG13eW95eXl6eW95eXl6eW95eXl6eW95eXl6eW95eXl6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btXkbsV26U95Uly/giphy.gif" width="100%" style="border-radius: 10px; border: 3px solid #FF2800;" alt="Ferrari F1 Pitstop/Race">
+      <br/><br/>
+      <img src="https://img.shields.io/badge/DRIVER-GTX-000000?style=for-the-badge&logo=ferrari&logoColor=FF2800&labelColor=FFEA00"/>
+    </td>
+    
+    <td width="45%" align="center" style="border: none;">
+      <a href="https://github.com/[USERNAME_ของคุณ]">
+        <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_ของคุณ]&show_icons=true&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&count_private=true&hide_border=false" />
+      </a>
+      <br/>
+      <a href="https://github.com/[USERNAME_ของคุณ]">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_ของคุณ]&layout=compact&bg_color=151515&title_color=FF2800&text_color=ffffff&border_color=FF2800&hide_border=false" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## ⚙️ THE V12 ENGINE ROOM (Tech Stack)
-
-<p align="center">
-<img src="https://img.shields.io/badge/Code-PYTHON-D00000?style=for-the-badge&logo=python&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Code-JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=D00000" />
-<img src="https://img.shields.io/badge/Frontend-REACT-D00000?style=for-the-badge&logo=react&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Backend-NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=D00000" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Tools-GIT-D00000?style=for-the-badge&logo=git&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/OS-LINUX-000000?style=for-the-badge&logo=linux&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Database-MONGODB-D00000?style=for-the-badge&logo=mongodb&logoColor=FFD700" />
-</p>
-
----
-
-## 🏎️ PERFORMANCE TELEMETRY
-
-<p align="center">
-<a href="https://github.com/wave03F">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave03F&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=SCUDERIA%20GTX%20PERFORMANCE&bg_color=30,000000,D00000&title_color=D00000&text_color=FFD700&icon_color=FFD700&border_color=D00000&hide_border=false&cache_seconds=7200&v=3" alt="GTX Performance Stats" />
-</a>
 <br/>
-<a href="https://github.com/wave03F">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wave03F&layout=compact&langs_count=8&card_width=360&custom_title=SCUDERIA%20GTX%20TOP%20LANGS&bg_color=30,000000,D00000&title_color=D00000&text_color=FFD700&border_color=D00000&hide_border=false&cache_seconds=7200&v=3" alt="Top Languages" />
-</a>
-</p>
+
+### 🛠️ CAR SETUP & AERO
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/9a/3c/4e/9a3c4e43926034452520624609674107.gif" width="600px" alt="Engine Revving GIF">
-<br/>
-<b><i>REV IT UP!</i></b>
+  <img src="https://img.shields.io/badge/ENGINE-Python-FF2800?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/KERS-JavaScript-FFEA00?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CHASSIS-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FUEL-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIT_CREW-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="14" role="img" aria-label="checkered-divider">
-  <defs>
-    <pattern id="checker2" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-      <rect x="0" y="0" width="10" height="10" fill="#000000"/>
-      <rect x="10" y="10" width="10" height="10" fill="#000000"/>
-      <rect x="10" y="0" width="10" height="10" fill="#FFFFFF"/>
-      <rect x="0" y="10" width="10" height="10" fill="#FFFFFF"/>
-    </pattern>
-  </defs>
-  <rect width="100%" height="14" fill="url(#checker2)"/>
-  <rect width="100%" height="14" fill="transparent" stroke="#D00000" stroke-width="1"/>
-</svg>
+### 🏁 SEASON PERFORMANCE (TRACK RECORD)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_ของคุณ]&theme=dark&hide_border=true&background=000000&stroke=FF2800&ring=FF2800&fire=FFEA00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFEA00" alt="Streak Stats" />
 
-## 🏆 TROPHY CASE & STREAK
+<br/><br/>
 
-<p align="center">
-<a href="https://github.com/wave03F">
-<img src="https://streak-stats.demolab.com?user=wave03F&background=000000&fire=D00000&ring=FFD700&currStreakNum=FFD700&currStreakLabel=D00000&sideNums=FFD700&sideLabels=D00000&dates=CCCCCC&hide_border=false&v=3" alt="GitHub Streak" />
-</a>
-<br/>
-<a href="https://github.com/wave03F">
-<img src="https://github-profile-trophy.vercel.app/?username=wave03F&theme=monokai&no-frame=false&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</a>
-</p>
-
----
-
-### 🏁 PIT STOP / CONTACT
-
-<p align="center">
-<a href="LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-scuderia--gtx-0077B5?style=flat&logo=linkedin&logoColor=white&color=D00000"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact--Me-D14836?style=flat&logo=gmail&logoColor=white&color=000000"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer&text=🏁%20POLE%20POSITION%20🏁&fontSize=20&fontColor=ffffff&fontAlign=50" />
 
 </div>
