@@ -15,7 +15,6 @@
       <br/><br/>
       <img src="https://img.shields.io/badge/DRIVER-GTX-000000?style=for-the-badge&logo=ferrari&logoColor=FF2800&labelColor=FFEA00"/>
     </td>
-
     <td width="45%" align="center" style="border: none;">
       <a href="https://github.com/wave03F">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave03F&show_icons=true&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&count_private=true&hide_border=false&cache_seconds=7200&v=f1" />
