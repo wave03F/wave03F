@@ -16,9 +16,15 @@
       <img src="https://img.shields.io/badge/DRIVER-GTX-000000?style=for-the-badge&logo=ferrari&logoColor=FF2800&labelColor=FFEA00" alt="Driver Badge GTX" loading="lazy"/>
     </td>
     <td width="45%" align="center" style="border: none;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=wave03F&bg_color=151515&color=FFEA00&line=FF2800&point=FFFFFF&area=true&hide_border=true" style="border-radius: 10px; border: 3px solid #FF2800; max-width: 420px; width: 100%;" alt="Activity Graph - wave03F" loading="lazy" />
+      <div style="position: relative; display: inline-block; width: 100%; max-width: 420px;">
+        <img src="https://ghchart.rshah.org/FFD700/wave03F" style="border-radius: 10px; border: 3px solid #FF2800; width: 100%;" alt="Contribution Heatmap - wave03F" loading="lazy" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Ferrari-Logo.svg/96px-Ferrari-Logo.svg.png" alt="Ferrari badge" style="position: absolute; top: 6px; right: 6px; width: 28px; height: 28px; border-radius: 4px; box-shadow: 0 0 0 2px #000000;" loading="lazy" />
+      </div>
       <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=wave03F&theme=monokai&no-frame=true&no-bg=true&column=2&margin-w=8&margin-h=8" style="max-width: 420px; width: 100%;" alt="Trophies - wave03F" loading="lazy" />
+      <div style="position: relative; display: inline-block; width: 100%; max-width: 420px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=wave03F&theme=monokai&no-frame=true&no-bg=true&column=2&margin-w=8&margin-h=8" style="border-radius: 10px; border: 3px solid #FF2800; width: 100%;" alt="Trophies - wave03F" loading="lazy" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Ferrari-Logo.svg/96px-Ferrari-Logo.svg.png" alt="Ferrari badge" style="position: absolute; top: 6px; right: 6px; width: 24px; height: 24px; border-radius: 4px; box-shadow: 0 0 0 2px #000000;" loading="lazy" />
+      </div>
     </td>
   </tr>
 </table>
