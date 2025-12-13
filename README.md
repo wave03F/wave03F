@@ -16,13 +16,9 @@
       <img src="https://img.shields.io/badge/DRIVER-GTX-000000?style=for-the-badge&logo=ferrari&logoColor=FF2800&labelColor=FFEA00" alt="Driver Badge GTX" loading="lazy"/>
     </td>
     <td width="45%" align="center" style="border: none;">
-      <a href="https://github.com/wave03F">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave03F&show_icons=true&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&count_private=true&hide_border=false&cache_seconds=7200&v=f1" style="border-radius: 10px; border: 3px solid #FF2800; max-width: 420px; width: 100%;" alt="GitHub Stats - wave03F" loading="lazy" />
-      </a>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=wave03F&bg_color=151515&color=FFEA00&line=FF2800&point=FFFFFF&area=true&hide_border=true" style="border-radius: 10px; border: 3px solid #FF2800; max-width: 420px; width: 100%;" alt="Activity Graph - wave03F" loading="lazy" />
       <br/>
-      <a href="https://github.com/wave03F">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wave03F&layout=compact&bg_color=151515&title_color=FF2800&text_color=ffffff&border_color=FF2800&hide_border=false&cache_seconds=7200&v=f1" style="border-radius: 10px; border: 3px solid #FF2800; max-width: 420px; width: 100%;" alt="Top Languages - wave03F" loading="lazy" />
-      </a>
+      <img src="https://github-profile-trophy.vercel.app/?username=wave03F&theme=monokai&no-frame=true&no-bg=true&column=2&margin-w=8&margin-h=8" style="max-width: 420px; width: 100%;" alt="Trophies - wave03F" loading="lazy" />
     </td>
   </tr>
 </table>
