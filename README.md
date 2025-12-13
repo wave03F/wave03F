@@ -18,17 +18,35 @@
     <td width="45%" align="center" style="border: none;">
       <div style="position: relative; display: inline-block; width: 100%; max-width: 420px;">
         <img src="https://ghchart.rshah.org/FFD700/wave03F" style="border-radius: 10px; border: 3px solid #FF2800; width: 100%;" alt="Contribution Heatmap - wave03F" loading="lazy" />
-        <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GTX badge" style="position:absolute; top:6px; right:6px; width:28px; height:28px; box-shadow:0 0 0 2px #000000; border-radius:4px;">
-          <rect x="0" y="0" width="64" height="64" rx="6" fill="#FF2800"/>
+        <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GTX badge" style="position:absolute; top:6px; right:6px; width:28px; height:28px; border-radius:4px;">
+          <defs>
+            <linearGradient id="gtxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#FF2800"/>
+              <stop offset="100%" stop-color="#FFEA00"/>
+            </linearGradient>
+            <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+              <feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-color="#000" flood-opacity="0.6"/>
+            </filter>
+          </defs>
+          <rect x="0" y="0" width="64" height="64" rx="6" fill="url(#gtxGrad)" filter="url(#softShadow)"/>
           <rect x="6" y="6" width="52" height="52" rx="4" fill="#000000"/>
           <text x="32" y="40" font-size="26" text-anchor="middle" fill="#FFEA00" font-family="Orbitron, Arial, sans-serif">GTX</text>
         </svg>
       </div>
       <br/>
       <div style="position: relative; display: inline-block; width: 100%; max-width: 420px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=wave03F&theme=monokai&no-frame=true&no-bg=true&column=2&margin-w=8&margin-h=8&v=f2" style="border-radius: 10px; border: 3px solid #FF2800; width: 100%;" alt="Trophies - wave03F" loading="lazy" />
-        <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GTX badge" style="position:absolute; top:6px; right:6px; width:24px; height:24px; box-shadow:0 0 0 2px #000000; border-radius:4px;">
-          <rect x="0" y="0" width="64" height="64" rx="6" fill="#FF2800"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=wave03F&theme=monokai&no-frame=true&no-bg=true&column=2&margin-w=8&margin-h=8&v=f3" style="border-radius: 10px; border: 3px solid #FF2800; width: 100%;" alt="Trophies - wave03F" loading="lazy" />
+        <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GTX badge" style="position:absolute; top:6px; right:6px; width:24px; height:24px; border-radius:4px;">
+          <defs>
+            <linearGradient id="gtxGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#FF2800"/>
+              <stop offset="100%" stop-color="#FFEA00"/>
+            </linearGradient>
+            <filter id="softShadow2" x="-50%" y="-50%" width="200%" height="200%">
+              <feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-color="#000" flood-opacity="0.6"/>
+            </filter>
+          </defs>
+          <rect x="0" y="0" width="64" height="64" rx="6" fill="url(#gtxGrad2)" filter="url(#softShadow2)"/>
           <rect x="6" y="6" width="52" height="52" rx="4" fill="#000000"/>
           <text x="32" y="40" font-size="26" text-anchor="middle" fill="#FFEA00" font-family="Orbitron, Arial, sans-serif">GTX</text>
         </svg>
