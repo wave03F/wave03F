@@ -25,17 +25,15 @@
       <br/><br/>
       <img src="https://img.shields.io/badge/DRIVER-GTX-000000?style=for-the-badge&logo=ferrari&logoColor=FF2800&labelColor=FFEA00" alt="Driver Badge GTX" loading="lazy"/>
     </td>
-    
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/wave03F">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave03F&show_icons=true&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&count_private=true&hide_border=false&cache_seconds=7200&v=f1" style="width:100%;" />
-      </a>
-      <br/>
-      
-      <div style="display: inline-block; width: 100%; margin-top: 10px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=wave03F&theme=monokai&no-frame=true&no-bg=true&column=2&margin-w=4&margin-h=4&v=f4" style="border-radius: 10px; border: 3px solid #FF2800; width: 100%; background-color: #151515;" alt="Trophies" loading="lazy" />
-      </div>
-    </td>
+  <td width="50%" align="center" style="border: none;">
+    <a href="https://github.com/wave03F">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave03F&show_icons=true&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&count_private=true&hide_border=false&cache_seconds=7200&v=f1" style="width:100%;" />
+    </a>
+    <br/>
+    <div style="display: inline-block; width: 100%; margin-top: 10px;">
+      <img src="https://github-profile-trophy.vercel.app/?username=wave03F&theme=monokai&no-frame=true&no-bg=true&column=2&margin-w=4&margin-h=4&v=f5" style="border-radius: 10px; border: 3px solid #FF2800; width: 100%; background-color: #151515;" alt="Trophies" loading="lazy" />
+    </div>
+  </td>
   </tr>
 </table>
 
