@@ -53,11 +53,11 @@
 
 ### 🏆 GRAND PRIX VICTORIES
 <div align="center">
-  <a href="https://github.com/wave03F">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wave03F&repo=ชื่อ-Repo-ของคุณ-1&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800" />
+  <a href="https://github.com/wave03F/SKLLR-BACKEND">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wave03F&repo=SKLLR-BACKEND&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800" />
   </a>
-  <a href="https://github.com/wave03F">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wave03F&repo=ชื่อ-Repo-ของคุณ-2&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800" />
+  <a href="https://github.com/wave03F/Addmission_school-s-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wave03F&repo=Addmission_school-s-&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800" />
   </a>
 </div>
 
@@ -74,10 +74,10 @@
 
 ### 📻 TEAM RADIO
 <p align="center">
-  <a href="https://github.com/wave03F">
+  <a href="https://www.linkedin.com/in/wave03f">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=FF2800"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:honasas1101@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=FF2800"/>
   </a>
 </p>
