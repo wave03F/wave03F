@@ -30,9 +30,7 @@
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave03F&show_icons=true&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&count_private=true&hide_border=false&cache_seconds=7200&v=f1" style="width:100%;" />
     </a>
     <br/><br/>
-    <a href="https://github.com/wave03F">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wave03F&layout=compact&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&langs_count=6&hide_border=false" style="width:100%;" alt="Top Languages" loading="lazy" />
-    </a>
+    <img src="https://media.giphy.com/media/xUPGcIvFB3D1rcP5p6/giphy.gif" width="100%" style="border-radius: 10px; border: 3px solid #FF2800;" alt="F1 Racing Car" loading="lazy">
   </td>
   </tr>
 </table>
