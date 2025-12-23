@@ -29,10 +29,10 @@
     <a href="https://github.com/wave03F">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave03F&show_icons=true&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&count_private=true&hide_border=false&cache_seconds=7200&v=f1" style="width:100%;" />
     </a>
-    <br/>
-    <div style="display: inline-block; width: 100%; margin-top: 10px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=wave03F&theme=monokai&no-frame=true&no-bg=true&column=2&margin-w=4&margin-h=4&v=f5" style="border-radius: 10px; border: 3px solid #FF2800; width: 100%; background-color: #151515;" alt="Trophies" loading="lazy" />
-    </div>
+    <br/><br/>
+    <a href="https://github.com/wave03F">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wave03F&layout=compact&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&langs_count=6&hide_border=false" style="width:100%;" alt="Top Languages" loading="lazy" />
+    </a>
   </td>
   </tr>
 </table>
