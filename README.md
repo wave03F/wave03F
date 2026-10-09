@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/wave03F/wave03F/main/assets/f1-pitstop.gif" width="100%" style="border-radius: 10px; border: 3px solid #FF2800;" alt="Ferrari F1 Pitstop" loading="lazy">
+      <img src="https://media.giphy.com/media/3o7btXkbsV26U95Uly/giphy.gif" width="100%" style="border-radius: 10px; border: 3px solid #FF2800;" alt="Ferrari F1 Pitstop" loading="lazy">
       <br/><br/>
       <img src="https://img.shields.io/badge/DRIVER-GTX-000000?style=for-the-badge&logo=ferrari&logoColor=FF2800&labelColor=FFEA00" alt="Driver Badge GTX" loading="lazy"/>
     </td>
@@ -39,7 +39,7 @@
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wave03F&show_icons=true&bg_color=151515&title_color=FF2800&text_color=ffffff&icon_color=FFEA00&border_color=FF2800&count_private=true&hide_border=false&cache_seconds=7200&v=f1" style="width:100%;" />
       </a>
       <br/><br/>
-      <img src="https://raw.githubusercontent.com/wave03F/wave03F/main/assets/f1-car.gif" width="100%" style="border-radius: 10px; border: 3px solid #FF2800;" alt="F1 Racing Car" loading="lazy">
+      <img src="https://media.giphy.com/media/p7IMzCBujoQlg5z2cP/giphy.gif" width="100%" style="border-radius: 10px; border: 3px solid #FF2800;" alt="F1 Racing Car" loading="lazy">
     </td>
   </tr>
 </table>
